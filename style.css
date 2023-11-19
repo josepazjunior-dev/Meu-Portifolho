@@ -1,0 +1,248 @@
+body {
+    margin: 0;
+
+}
+
+.topo ul {
+    position: absolute;
+    top: 20px;
+    left: 450px;
+    list-style: none;
+    display: flex;
+    margin: 0 30px;
+    margin-left: 50px;
+
+}
+
+.topo li {
+    margin: 20px;
+    color: #fff;
+    font-size: 20px;
+
+}
+
+.topo a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.topo img {
+    height: 660px;
+    width: 100%;
+}
+
+.banner {
+    background-color: #121C1F;
+    width: 750px;
+    height: 300px;
+    border-radius: 20px;
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+
+.banner h1 {
+    color: #FFBF00;
+    font-size: 45px;
+    position: absolute;
+    left: 20px;
+    top: 80px;
+}
+
+.banner h2 {
+    color: #fff;
+    font-size: 20px;
+    position: absolute;
+    left: 35px;
+    top: 65px;
+}
+
+.banner h3 {
+    color: #fff;
+    font-size: 20px;
+    position: absolute;
+    left: 35px;
+    top: 150px;
+}
+
+.banner img {
+    position: absolute;
+    left: 350px;
+    bottom: 50px;
+
+}
+
+.sobre-mim {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.sobre-mim h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.sobre-mim p {
+    font-family: verdana;
+    width: 900px;
+    margin-left: 230px;
+}
+
+.destaque_negrito {
+    font-weight: bold;
+}
+
+.meus-projetos {
+    text-align: center;
+}
+
+.cards-container h2 {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.cards-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.card {
+    width: 250px;
+    height: 380px;
+    padding: 20px;
+    margin: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px black;
+    text-align: center;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.card p {
+    color: #666;
+}
+
+.card img {
+    width: 200px;
+    height: 150px;
+}
+
+.card span {
+    font-weight: bold;
+}
+
+.Contatos footer {
+    position: relative;
+    background-color: #121C1F;
+    width: 100%;
+    height: 250px;
+
+}
+
+.Contatos p {
+    color: #FFBF00;
+}
+
+.Contatos h2 {
+    color: #ffffff;
+    text-align: center;
+}
+
+.Contatos img {
+    position: absolute;
+    top: 60px;
+    width: 50px;
+    height: 50px;
+    margin-left: 150px;
+
+}
+
+.email {
+    position: absolute;
+    top: 60px;
+
+    margin-left: 200px;
+    color: #FFBF00;
+    font-size: 18px;
+
+
+}
+
+.Develop {
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+    left: 550px;
+}
+
+.telefone img {
+    position: absolute;
+    top: 60px;
+    width: 50px;
+    height: 50px;
+    margin-left: 550px;
+}
+
+.telefone p {
+    position: absolute;
+    left: 600px;
+    top: 60px;
+    font-weight: bold;
+}
+
+.github img {
+    position: absolute;
+    top: 60px;
+    width: 50px;
+    height: 50px;
+    margin-left: 800px;
+}
+
+.github p a {
+    text-decoration: none;
+    color: #FFBF00;
+    position: absolute;
+    left: 860px;
+    top: 75px;
+    font-weight: bold;
+
+}
+
+.linkedin img {
+    position: absolute;
+    top: 60px;
+    width: 50px;
+    height: 50px;
+    margin-left: 1040px;
+}
+
+.linkedin p a {
+    text-decoration: none;
+    color: #FFBF00;
+    position: absolute;
+    left: 1100px;
+    top: 75px;
+    font-weight: bold;
+
+
+}
+
+
+.butao-topo img {
+    position: fixed;
+    right: 30px;
+    top: 550px;
+    width: 50px;
+    height: 50px;
+}
+.java{
+    background-color: #FFBF00;
+    font-size: 90px;
+}
